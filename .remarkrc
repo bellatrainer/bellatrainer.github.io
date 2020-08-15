@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "preset-lint-markdown-style-guide",
+    "remark-frontmatter",
+     ["remark-lint-list-item-indent", "space"]
+  ],
+  "settings": {
+    "maximum-line-length": 80,
+    "lint-list-item-indent": "space",
+    "connmark": true,
+    "gfm": true,
+    "pedantic": true,
+    "incrementListMarker": false,
+    "strong": "*",
+    "emphasis": "*",
+    "listItemIndent": "1"
+  }
+}
