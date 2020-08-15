@@ -23,6 +23,7 @@ show_downloads: false
 google_analytics:
 twitter_username:
 github_username: dbellavista
+lang: 'it-IT'
 lsi: false
 safe: true
 incremental: false

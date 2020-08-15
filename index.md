@@ -32,5 +32,8 @@ efficace basato su fondamenta scientifiche e con una valutazione costante di
 tecnica e progressione.
 
 Se tuttavia sei interessato ad essere seguito nella programmazione, nella
-tecnica, nella nutrizione o tutto quanto insieme, dai un'occhiata al mio
+tecnica, nella nutrizione o tutto quanto insieme, aspetta ancora qualche
+giorno per i dettagli o contattami in privato.
+<!-- dai un'occhiata al mio
 Patreon per vedere tutti i modi con cui possiamo collaborare insieme.
+-->
