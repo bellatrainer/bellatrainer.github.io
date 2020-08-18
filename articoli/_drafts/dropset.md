@@ -19,7 +19,7 @@ Significa effettuare tre serie **senza recupero** in questa modalità:
 - 1 serie da 10 con 68kg (85 - 15%)
 
 La mancanza di recupero fra le serie permette di guadagnare tempo rispetto alle
-serie tradizionali. Facendo un 3x10 3 minuti di recupero, tolto il
+serie tradizionali. Facendo un *3x10* 3 minuti di recupero, tolto il
 riscaldamento, si impiega circa 8 minuti: 
 
 - 2 minuti per le tre esecuzioni di panca
@@ -38,19 +38,19 @@ periodizzare l'allenamento in palestra.
 
 ## Un po' di storia
 
-I primi studi degli anni 2000 mostrarono che le dropset portavano a maggiori
+I primi studi degli anni 2000 mostrarono che le drop set portavano a maggiori
 guadagni di ipertrofia muscolare rispetto alle serie tradizionali. Ai tempi
 vennero fatte due speculazioni a riguardo:
 
 1. Le drop set portano ad un maggiore picco ormonale. Secondo la *"hormone
-   hypothesis"* questo favorirebbe l'ipetrofia muscolare 
+   hypothesis"* questo favorirebbe l'ipertrofia muscolare 
 
 1. Le drop set permettono di  allenare il muscolo oltre il cedimento muscolare,
    raggiungendo una maggiore fatica delle unità motorie del muscolo
 
 Mentre la prima spiegazione è stata scartata qualche anno più tardi dopo la
 rivalutazione della *hormone hypothesis* (i picchi ormonali non sono correlati
-con un maggior aumento di ipetrofia muscolare), la seconda rimane ancora
+con un maggior aumento di ipertrofia muscolare), la seconda rimane ancora
 valida.
 
 Gli studi successivi provarono a replicare i benefici delle drop set rispetto
@@ -77,7 +77,7 @@ e variare lo stimolo muscolare.
 
 ## Come strutturare un allenamento
 
-Pre strutturare un esercizio a drop set si possono seguire questi punti:
+Per strutturare un esercizio a drop set si possono seguire questi punti:
 
 - Effettuare da 2 a 4 serie riducendo il carico del 20-25% in ogni serie.
 
@@ -90,13 +90,13 @@ Pre strutturare un esercizio a drop set si possono seguire questi punti:
   essere difficile su un esercizio con bilanciere, specialmente senza l'aiuto
   di un partner.
 
-- Evitare di usare velocità di esecuzione troppo lente (maggiori di 4 secondi
-  di eccentrica più concentrica) per non rischiare di ridurre il volume
-  allenante.
+- Evitare di usare velocità di esecuzione troppo lente per non rischiare di
+  ridurre il volume allenante. La raccomandazione è di impiegare non più di 4
+  secondi per effettuare ogni singola ripetizione.
 
 - Sempre per non rischiare di accumulare troppa fatica, ad ogni
-  mesociclo programmare una piccola selezione di esercizi come drop set e
-  variare al mesociclo successivo.
+  ciclo di allenamenti programmare una piccola selezione di esercizi come drop
+  set e variare al ciclo successivo (ad esempio ogni 4-6 settimane).
 
 ## Esempi di conversione a dropset
 
@@ -147,7 +147,7 @@ può ottimizzare la drop set.
 
 Ora che il carico è deciso e il partner sa cosa fare, si può iniziare
 l'esercizio. La prima serie sarà eseguita con 5 reps, le serie successive
-saranno autoregolate fermandosi al raggungimento del RPE 8 (lasciandone 2 rep
+saranno autoregolate fermandosi al raggiungimento del RPE 8 (lasciandone 2 rep
 di buffer ad ogni serie).
 
 | **Serie** | **Ripetizioni** | **Carico** | **Recupero** |
