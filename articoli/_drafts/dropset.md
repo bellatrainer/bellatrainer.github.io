@@ -1,5 +1,5 @@
 ---
-layout: articolo
+layout: post
 tags: allenamento densità dropset
 title: Velocizzare l'allenamento con le Drop Set
 ---

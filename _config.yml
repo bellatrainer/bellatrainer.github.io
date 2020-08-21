@@ -16,9 +16,12 @@
 title: Daniele Bellavista - PT
 email: daniele.bellavista@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Schede di allenamento e contenuti da applicare in palestra.
+  L'allenamento in palestra è un arte a cui ho dedicato gli ultimi 5 anni
+  della mia vita. Tramite un approccio sostenibile ed evidence-based, voglio
+  aiutare la persona a migliorare la propria salute, la propria forza e il
+  proprio benessere fisico e mentale.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "bellatrainer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bellatrainer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
 google_analytics:
 twitter_username:
@@ -28,6 +31,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
+paginate: 10
 gist:
   noscript: false
 kramdown:
@@ -36,7 +40,7 @@ kramdown:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
